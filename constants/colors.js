@@ -1,0 +1,22 @@
+export default {
+  primary: 'rebeccapurple',
+  primaryText: 'ivory',
+  secondary: 'darkturquoise',
+  secondaryText: 'ivory',
+  accent: 'mediumpurple',
+  accentText: 'ivory',
+  warn: 'orange',
+  error: 'crimson',
+  shadow: '#210042',
+  text: '#140028',
+  text2: 'slategray',
+  background: 'snow',
+  background2: 'papayawhip',
+  background3: 'thistle',
+  rose: '#e0c0e0',
+  gradient1: 'thistle',
+  gradient2: 'lavender',
+  gold: '#ffbb00',
+  wrong: 'palevioletred',
+  correct: 'darkseagreen'
+};
