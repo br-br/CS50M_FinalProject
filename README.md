@@ -41,7 +41,7 @@ Design your own interfaces.
   The navigation structure is as follows:
 
 - MainNavigator (SwitchNavigator)
-  StartupScreen (try to login with persisted state and switch to the AuthNavigator if needed)
+  - StartupScreen (try to login with persisted state and switch to the AuthNavigator if needed)
   - AuthNavigator(StackNavigator)
     - AuthScreen
   - QuizNavigator (DrawerNavigator)
