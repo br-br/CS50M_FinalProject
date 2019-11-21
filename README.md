@@ -41,23 +41,23 @@ Design your own interfaces.
 - MainNavigator (SwitchNavigator)
   StartupScreen → tries to login with persisted state and switches either to the AuthNavigator or to the QuizNavigator (validity of persisted auth token).
   - AuthNavigator(StackNavigator)
-    AuthScreen
+    - AuthScreen
   - QuizNavigator (DrawerNavigator)
     - QuizzesNavigator (StackNavigator)
-      QuizzesOverviewScreen
-      QuizStartScreen
-      QuestionScreen
-      ResultsNavigator
+      - QuizzesOverviewScreen
+      - QuizStartScreen
+      - QuestionScreen
+      - ResultsNavigator
     - ResultsNavigator (TabNavigator)
-      LeaderboardScreen
-      ProfileScreen
+      - LeaderboardScreen
+      - ProfileScreen
     - AdminNavigator (TabNavigator)
       - AdminQuizzesNavigator (StackNavigator)
-        AdminQuizzesScreen
-        EditQuizScreen
+        - AdminQuizzesScreen
+        - EditQuizScreen
       - AdminQuestionsNavigator (StackNavigator)
-        AdminQuestionsScreen
-        EditQuestionScreen
+        - AdminQuestionsScreen
+        - EditQuestionScreen
 
 ### Demo
 
