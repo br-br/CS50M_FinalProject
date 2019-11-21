@@ -64,3 +64,7 @@ Design your own interfaces.
 ### Demo
 
 A demo video of my implementation run on an Android emulator can be watched here: https://youtu.be/v4rcIIqkGvU
+
+### Note
+
+Before running my code, please edit the file `config.js` with your own firebase credentials.
