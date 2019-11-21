@@ -21,9 +21,9 @@ Design your own interfaces.
 ### Description
 
   To use the Quiz-App, the user must be authenticated (signup/login).  
-  The admin section offers the possibility to create a new quiz and add questions to it.   
+  The **admin section** offers the possibility to create a new quiz and add questions to it.   
   The current user can also edit or delete his/her own quizzes and questions.      
-  The quiz section gives access to all quizzes. The user can do the quizzes and then compare his/her results on the leaderboard.
+  The **quiz section** gives access to all quizzes. The user can do the quizzes and then compare his/her results on the leaderboard.
 
 ### redux
 
